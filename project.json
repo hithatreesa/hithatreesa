@@ -1,0 +1,21 @@
+{
+  "overview": "A stunning 3D animated landing page for Terait Technologies featuring immersive Three.js hero scenes, scroll-triggered animations, interactive service showcases, and smooth entrance effects — built to impress enterprise IT prospects.",
+  "features": [
+    "3D animated hero section with rotating geometric shapes and mouse parallax",
+    "Scroll-triggered service showcase cards with stagger animations",
+    "Interactive 3D tech visualization scene mid-page",
+    "Smooth section transitions with gradient background shifts",
+    "Fixed navigation with sticky header transparency",
+    "Dark-themed footer with CTA and contact info"
+  ],
+  "category": "showcase",
+  "tags": [
+    "3d",
+    "landing-page",
+    "animation",
+    "three-js",
+    "enterprise",
+    "it-services"
+  ],
+  "last_updated": "2026-04-24T10:05:28.285Z"
+}
